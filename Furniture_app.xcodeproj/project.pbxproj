@@ -16,7 +16,7 @@
 		880473C725D8C1D200F9A279 /* PlayfairDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 880473C525D8C1D200F9A279 /* PlayfairDisplay-Regular.ttf */; };
 		880473C825D8C1D200F9A279 /* PlayfairDisplay-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 880473C625D8C1D200F9A279 /* PlayfairDisplay-Bold.ttf */; };
 		CC7EBF5D2A386E05001773F1 /* DetailScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC7EBF5C2A386E05001773F1 /* DetailScreen.swift */; };
-		CC7EBF672A38F2F9001773F1 /* furnitureapp.png in Resources */ = {isa = PBXBuildFile; fileRef = CC7EBF652A38F2F9001773F1 /* furnitureapp.png */; };
+		CC7EBF672A38F2F9001773F1 /* furnitureapp1.png in Resources */ = {isa = PBXBuildFile; fileRef = CC7EBF652A38F2F9001773F1 /* furnitureapp1.png */; };
 		CC7EBF682A38F2F9001773F1 /* furnitureapp2.png in Resources */ = {isa = PBXBuildFile; fileRef = CC7EBF662A38F2F9001773F1 /* furnitureapp2.png */; };
 		CCCB2B132A386395005963B1 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCB2B122A386395005963B1 /* HomeScreen.swift */; };
 /* End PBXBuildFile section */
@@ -54,7 +54,7 @@
 		880473C525D8C1D200F9A279 /* PlayfairDisplay-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-Regular.ttf"; sourceTree = "<group>"; };
 		880473C625D8C1D200F9A279 /* PlayfairDisplay-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PlayfairDisplay-Bold.ttf"; sourceTree = "<group>"; };
 		CC7EBF5C2A386E05001773F1 /* DetailScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailScreen.swift; sourceTree = "<group>"; };
-		CC7EBF652A38F2F9001773F1 /* furnitureapp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = furnitureapp.png; sourceTree = "<group>"; };
+		CC7EBF652A38F2F9001773F1 /* furnitureapp1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = furnitureapp1.png; sourceTree = "<group>"; };
 		CC7EBF662A38F2F9001773F1 /* furnitureapp2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = furnitureapp2.png; sourceTree = "<group>"; };
 		CCCB2B122A386395005963B1 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -157,7 +157,7 @@
 		CC7EBF642A38F2ED001773F1 /* Picture */ = {
 			isa = PBXGroup;
 			children = (
-				CC7EBF652A38F2F9001773F1 /* furnitureapp.png */,
+				CC7EBF652A38F2F9001773F1 /* furnitureapp1.png */,
 				CC7EBF662A38F2F9001773F1 /* furnitureapp2.png */,
 			);
 			path = Picture;
@@ -279,7 +279,7 @@
 				8804739E25D8C14400F9A279 /* Preview Assets.xcassets in Resources */,
 				8804739B25D8C14400F9A279 /* Assets.xcassets in Resources */,
 				880473C725D8C1D200F9A279 /* PlayfairDisplay-Regular.ttf in Resources */,
-				CC7EBF672A38F2F9001773F1 /* furnitureapp.png in Resources */,
+				CC7EBF672A38F2F9001773F1 /* furnitureapp1.png in Resources */,
 				CC7EBF682A38F2F9001773F1 /* furnitureapp2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
